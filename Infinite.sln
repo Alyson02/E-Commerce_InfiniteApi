@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infinite.Api", "InfiniteApi\Infinite.Api.csproj", "{5F9BE054-F996-45EF-AF62-6CBB94778DD3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infinite.Core", "Infinite.Core\Infinite.Core.csproj", "{81EC4EC1-A435-4CAB-9F23-F0A28E3B3AD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F9BE054-F996-45EF-AF62-6CBB94778DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F9BE054-F996-45EF-AF62-6CBB94778DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F9BE054-F996-45EF-AF62-6CBB94778DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F9BE054-F996-45EF-AF62-6CBB94778DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81EC4EC1-A435-4CAB-9F23-F0A28E3B3AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81EC4EC1-A435-4CAB-9F23-F0A28E3B3AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81EC4EC1-A435-4CAB-9F23-F0A28E3B3AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81EC4EC1-A435-4CAB-9F23-F0A28E3B3AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCA5E4BE-2469-4ED7-B1FE-5C374F9685B0}
+	EndGlobalSection
+EndGlobal
